@@ -12,6 +12,3 @@ This program will automatically plot 2 graphs, the expected logistic curve overl
 
 One of the sample data files contains the number of Covid-19 cases in China during the first 28 days of the disease.
 The growth of Covid-19 in China almost perfectly follows logistic growth (as there was only 1 wave of the disease), and using the first 28 days of data, this model was able to predict a total of about 86000 cases.
-
-
-This code is written in MatLab.
